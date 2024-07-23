@@ -1,6 +1,6 @@
 <!-- <div align="center">    -->
   
-# This repository provides the implementation of our ECCV 2024 paper: [MetaAug: Meta-Data Augmentation for Post-Training Quantization](https://arxiv.org/abs/2407.14726)
+## This repository provides the implementation of our ECCV 2024 paper: [MetaAug: Meta-Data Augmentation for Post-Training Quantization](https://arxiv.org/abs/2407.14726)
 </div>
 
 
