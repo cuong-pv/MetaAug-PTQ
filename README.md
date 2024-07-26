@@ -3,6 +3,7 @@
 ## This repository provides the implementation of our ECCV 2024 paper: [MetaAug: Meta-Data Augmentation for Post-Training Quantization](https://arxiv.org/abs/2407.14726)
 </div>
 
+We will release code soon.
 
 ## Installation
 
@@ -19,14 +20,10 @@ Install the package:
 pip3 install -r requirements.txt
 ```
 
-## Dataset
-For ImageNet dataset, download data to train and val folder
 
 ## Training
 
 ### Training on ImageNet
-
-- Download the dataset at <https://image-net.org/> and put them to `./data/imagenet`
   ```bash
   bash run.sh
   ```
