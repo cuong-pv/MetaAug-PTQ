@@ -1,0 +1,12 @@
+logs/*
+# Environments
+.env
+.envrc
+.venv
+*.pyc
+venv/
+ENV/
+env/
+bin/
+*.pt
+*.pth
