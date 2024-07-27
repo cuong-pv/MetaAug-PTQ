@@ -5,13 +5,6 @@
 
 ## Installation
 
-Prerequires:
-
-- Python 3.6
-- PyTorch 1.9.0
-- torchvision 0.10.0
-- other packages like wandb, tensorboard, etc.
-
 Install the package:
 ```
 pip3 install -r requirements.txt
