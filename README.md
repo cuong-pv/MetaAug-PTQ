@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 
 ## Training
 ### Download the warmup unet models from [here](https://drive.google.com/file/d/14lWmQ1oLo9jyH2O-yB9vSXluKYgMdUAb/view?usp=sharing) and put it in the `./warmup` folder.
-### Postraining quantization on ImageNet
+### Post-training quantization on ImageNet
   ```bash
   bash run.sh
   ```
